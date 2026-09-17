@@ -1,2 +1,5 @@
-# uno-llama
-experimenting with uno q and ollama
+# Uno-llama
+Running small models on the Uno-Q. 
+
+## Install
+ 
